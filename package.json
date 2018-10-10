@@ -1,5 +1,7 @@
 {
   "name": "squeejy",
+  "description": "A simple js queue data structure with a stupid name",
   "main": "queue.js",
-  "version": "v1.0.0"
+  "version": "v1.0.0",
+  "homepage": "https://github.com/ChemicalRocketeer/squeejy"
 }
