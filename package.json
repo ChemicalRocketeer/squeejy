@@ -2,6 +2,6 @@
   "name": "squeejy",
   "description": "A simple js queue data structure with a stupid name",
   "main": "queue.js",
-  "version": "v1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/ChemicalRocketeer/squeejy"
 }
